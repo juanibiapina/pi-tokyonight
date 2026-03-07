@@ -1,10 +1,14 @@
 {
   "name": "@juanibiapina/pi-tokyonight",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tokyo Night theme for pi coding agent",
-  "keywords": ["pi-package"],
+  "keywords": [
+    "pi-package"
+  ],
   "pi": {
-    "themes": ["./themes"]
+    "themes": [
+      "./themes"
+    ]
   },
   "author": "Juan Ibiapina",
   "license": "MIT",
